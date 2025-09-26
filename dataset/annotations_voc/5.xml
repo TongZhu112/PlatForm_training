@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <folder>images</folder>
+  <filename>5.jpg</filename>
+  <size>
+    <width>474</width>
+    <height>316</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>GT</name>
+    <bndbox>
+      <xmin>45</xmin>
+      <ymin>39</ymin>
+      <xmax>423</xmax>
+      <ymax>274</ymax>
+    </bndbox>
+  </object>
+</annotation>
