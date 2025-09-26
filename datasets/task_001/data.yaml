@@ -1,0 +1,8 @@
+train: /mnt/c/Users/TongZhu/Desktop/PycharmProjects/Flask_YoloV8_API_Distributed/datasets/task_001/images
+val: /mnt/c/Users/TongZhu/Desktop/PycharmProjects/Flask_YoloV8_API_Distributed/datasets/task_001/images
+test: /mnt/c/Users/TongZhu/Desktop/PycharmProjects/Flask_YoloV8_API_Distributed/datasets/task_001/images
+nc: 3
+names:
+- bird
+- person
+- bus

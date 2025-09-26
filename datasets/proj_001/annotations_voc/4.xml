@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <folder>images</folder>
+  <filename>4.jpg</filename>
+  <size>
+    <width>3468</width>
+    <height>4624</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>GT</name>
+    <bndbox>
+      <xmin>879</xmin>
+      <ymin>842</ymin>
+      <xmax>1887</xmax>
+      <ymax>2349</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>GT</name>
+    <bndbox>
+      <xmin>1988</xmin>
+      <ymin>842</ymin>
+      <xmax>2950</xmax>
+      <ymax>2349</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>FP</name>
+    <bndbox>
+      <xmin>1017</xmin>
+      <ymin>2488</ymin>
+      <xmax>2830</xmax>
+      <ymax>3940</ymax>
+    </bndbox>
+  </object>
+</annotation>
